@@ -1,0 +1,50 @@
+[
+  {
+    "key" : "CX",
+    "name" : "Caxias do Sul",
+    "latitude" : -29.1240,
+    "longitude" : -51.1108
+  },  
+  {
+    "key" : "CNS",
+    "name" : "Canoas",
+    "latitude" : -29.9185,
+    "longitude" : -51.1784
+  },
+  {
+    "key" : "CRI",
+    "name" : "Criciuma",
+    "latitude" : -28.6767,
+    "longitude" : -49.3616
+  },
+  {
+    "key" : "ICA",
+    "name" : "Içara",
+    "latitude" : -28.7138,
+    "longitude" : -49.3006
+  },
+  {
+    "key" : "IJ",
+    "name" : "Ijui",
+    "latitude" : -28.3869,
+    "longitude" : -53.9133
+  },
+  {
+    "key" : "PF",
+    "name" : "Passo Fundo",
+    "latitude" : -28.2608,
+    "longitude" : -52.4209
+  },
+  {
+    "key" : "PL",
+    "name" : "Pelotas",
+    "latitude" : -31.7696,
+    "longitude" : -52.3409
+  },
+    {
+    "key" : "ARAQ",
+    "name" : "Araquari",
+    "latitude" : -26.2212,
+    "longitude" : -48.4320
+  }  
+]
